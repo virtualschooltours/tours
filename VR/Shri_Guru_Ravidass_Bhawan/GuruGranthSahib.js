@@ -48,7 +48,7 @@ scene.switchTo();
 
 // Set up control for enabling/disabling device orientation.
 
-var enabled = false;
+var enabled = true;
 
 var toggleElement = document.getElementById('toggleDeviceOrientation');
 
