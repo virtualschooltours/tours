@@ -42,15 +42,15 @@ html, body {
   margin: 8px;
 }
 
-#toggleDeviceOrientation .disable {
+#toggleDeviceOrientation .enabled {
   display: none;
 }
 
-#toggleDeviceOrientation.enabled .disable {
+#toggleDeviceOrientation.enabled .enable {
   display: block;
 }
 
-#toggleDeviceOrientation.enabled .enable {
+#toggleDeviceOrientation.enabled .disable {
   display: none;
 }
 
