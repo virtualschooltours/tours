@@ -42,7 +42,7 @@ html, body {
   margin: 8px;
 }
 
-#toggleDeviceOrientation .disabled {
+#toggleDeviceOrientation .enable {
   display: none;
 }
 
